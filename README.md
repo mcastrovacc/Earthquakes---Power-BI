@@ -14,3 +14,8 @@ Tsunami asociado, Erupción volcánica.
 Muertes, Daños en millones de dólares, Muertes totales de terremotos y eventos asociados.
 
 
+
+correo: mcastrovacc@gmail.com
+linkedin: https://www.linkedin.com/in/mara-castro-vacc/
+
+
