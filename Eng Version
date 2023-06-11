@@ -1,0 +1,13 @@
+#Earthquakes---Power-BI
+
+In the present work, data was collected from the National Centers for Environmental Information dependent on the National Office of Oceanic and Atmospheric Administration (NOAA) of the United States to analyze information on the earthquakes that occurred throughout the planet Earth in the period between the year 1700 and 2023.
+
+The Significant Earthquakes Database contains information on destructive earthquakes from 2150 B.C. to date that meet at least one of the following criteria: moderate damage (approximately $1 million or more), 10 or more fatalities, magnitude 7.5 or greater, Modified Mercalli intensity X or greater, or the earthquake generated a tsunami.
+
+Data includes (in English): Year, Month, Day, Hour, Minute, Second. Region (regional borders are: 010 - Central, West and South Africa, 015 - North Africa, 020 - Antarctica, 030 - East Asia, 040 - Central Asia and the Caucasus, 050 - Kamtchatka and Kuril Islands, 060 - S. and SE Asia and Indian Ocean, 070 - Atlantic Ocean, 080 - Bering Sea, 090 - Caribbean, 100 - Central America, 110 - Eastern Europe, 120 - Northern and Western Europe, 130 - Southern Europe, 140 - Middle East, 150 - North America and Hawaii, 160 - South America, 170 - Central and South Pacific. Country, Area, Province. Latitude, Longitude. Magnitude, Intensity, Depth. Associated Tsunami, Volcanic Eruption. Fatalities, Damage in million dollars, Total deaths from earthquakes and associated events.
+
+Power BI dashboard: https://drive.google.com/file/d/1VieDcidg5SNKJF9Zr41xkmkRcoJNruAm/view?usp=share_link
+
+email: mcastrovacc@gmail.com
+
+linkedin: https://www.linkedin.com/in/mara-castro-vacc/
