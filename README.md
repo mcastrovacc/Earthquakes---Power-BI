@@ -1,4 +1,4 @@
-# Earthquakes---Power-BI
+# Terremotos---Power-BI
 
 En el presente trabajo se recabaron datos de los Centros Nacionales de Información Ambiental dependientes de la Oficina Nacional de Administración Oceánica y Atmosférica ( NOAA) de Estados Unidos para analizar información sobre los terremotos ocurridos a lo largo del planeta Tierra en el período comprendido entre el año 1700 y 2023. 
 
@@ -13,7 +13,7 @@ Magnitud, Intensidad, Profundidad.
 Tsunami asociado, Erupción volcánica. 
 Muertes, Daños en millones de dólares, Muertes totales de terremotos y eventos asociados.
 
-
+tablero Power BI: https://drive.google.com/file/d/1VieDcidg5SNKJF9Zr41xkmkRcoJNruAm/view?usp=share_link
 
 correo: mcastrovacc@gmail.com
 
